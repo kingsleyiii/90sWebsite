@@ -1,0 +1,26 @@
+body {
+    background-color: teal;
+}
+h1 {
+    color: yellowgreen;
+    text-align: center;
+}
+h2 {
+    color: orangered;
+    text-align: center;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+p {
+    color:whitesmoke;
+    font-size:larger;
+    text-align: center;
+}
+a {
+    color: orangered;
+    text-decoration: none;
+}
